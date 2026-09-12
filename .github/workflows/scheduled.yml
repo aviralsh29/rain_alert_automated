@@ -27,4 +27,4 @@ jobs:
           MY_PASSWORD: ${{ secrets.MY_PASSWORD }}
           API_KEY: ${{ secrets.API_KEY }}
           SENDING_EMAIL: ${{ secrets.SENDING_EMAIL }}
-        run: python main.py
+        run: python main1.py
